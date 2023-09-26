@@ -162,5 +162,7 @@ cython_debug/
 training_code_venv/
 .idea/
 .DS_Store
+propouse.txt
+
 
 
