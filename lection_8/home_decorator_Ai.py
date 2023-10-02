@@ -6,6 +6,7 @@ print(f"Initializing timer {datetime.now() - timer}")
 user_input = input("Введіть деякий текст: ").lower().strip()
 user_input = user_input.split()
 print(f"Працюємо з таким набором тексту: \n{user_input}")
+# print(input.__doc__)
 
 
 def cheker_timers(func):
