@@ -164,6 +164,6 @@ training_code_venv/
 .DS_Store
 propouse.txt
 python.txt
-
+.venv
 
 

@@ -1,0 +1,6 @@
+This line is first in the welcome file
+It's a second message in file
+This is third message in welcome file
+
+This line brfore last line
+It's a last line
