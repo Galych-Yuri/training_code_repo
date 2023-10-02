@@ -40,3 +40,5 @@ print(new_dict)  # {'ds2': 1, 'sds3': 4, 'cccc4': 9}
 new_dict_2 = {len(key): value**2 for key, value in old_dict.items()}
 print(new_dict_2)  # {2: 1, 3: 4, 4: 9}
 
+# ----------------------------------------------------------------
+
